@@ -20,7 +20,7 @@ The project is built using the following technologies:
 4) Create a .env file in the root directory and add your OpenAI API key.
 5) Start the development server:  `npm run serve`
 
-##Acknowledgments
+## Acknowledgments
 
 1) OpenAI for providing the powerful API used in the project
 2) The VueJS community for creating and maintaining the front-end framework.
